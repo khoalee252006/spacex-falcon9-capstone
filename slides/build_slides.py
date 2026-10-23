@@ -292,7 +292,7 @@ textbox(s, 1.15, 1.2, 11, 0.5, [{"text": "IBM APPLIED DATA SCIENCE CAPSTONE", "s
 textbox(s, 1.15, 2.0, 11.5, 1.6, [{"text": "Data Science Capstone Project Report", "size": 44, "bold": True, "color": WHITE}])
 textbox(s, 1.15, 3.35, 11.5, 0.9, [{"text": "Predicting whether the SpaceX Falcon 9 first stage will land", "size": 24, "color": RGBColor(0xCB, 0xD5, 0xE1)}])
 textbox(s, 1.15, 4.75, 11.5, 0.9, [
-    {"text": [("Author: ", True), ("khoalee252006", False)], "size": 16, "color": WHITE},
+    {"text": [("Author: ", True), ("Khoa Le", False)], "size": 16, "color": WHITE},
     {"text": [("Date: ", True), ("October 23, 2026", False)], "size": 16, "color": WHITE}])
 box(s, 1.15, 5.75, 7.6, 0.6, fill=WHITE)      # white box so the (blue) hyperlink stays readable
 textbox(s, 1.3, 5.75, 7.4, 0.6, [{"text": [("GitHub: ", True), (REPO, False)], "size": 16, "link": REPO}], anchor=MSO_ANCHOR.MIDDLE)
