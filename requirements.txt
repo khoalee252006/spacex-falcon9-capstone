@@ -1,0 +1,15 @@
+pandas==2.3.3
+numpy==2.4.4
+requests==2.34.2
+beautifulsoup4==4.15.0
+matplotlib==3.10.9
+seaborn==0.13.2
+scikit-learn==1.9.0
+folium==0.20.0
+plotly==6.9.0
+dash==4.4.1
+playwright==1.61.0
+python-pptx==1.0.2
+Pillow==12.3.0
+comtypes
+notebook
